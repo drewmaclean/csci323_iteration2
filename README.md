@@ -5,6 +5,9 @@ Assignment for CSCI323, due date (10/15/2014).
 
 Java program to provide gui for stored recipes. More complete description of requirements can be found at [CSCI323 - Software Science](https://moodle.umt.edu/course/view.php?id=5416). 
 
+## Schedule
+https://new.teamweek.com/#p/6iwqljepxci4cht6iwx7
+
 
 ## Project Members
 Please add your information below
